@@ -1,4 +1,10 @@
-Tôi là sinh viên mới tốt nghiệp Chuyên ngành Kế toán - Tài chính tại Trường Quốc tế - ĐHQGHN (do Trường đối tác ĐH East London cấp bằng)
-Hiện tại tôi đang đi làm tại Ngân hàng được gần 1 năm và tôi có dự định sẽ học lên ngành Fintech và Phân tích dữ liệu (Data Analysts)
-Định hướng và mục tiêu của tôi là sẽ có một công việc ổn định liên quan đến Fintech hoặc Phân tích dự liệu (Data Analysts)
-Tôi sẽ cố gắng hoàn thiện những kiến thức chính về Domain mà tôi đang theo làm, cũng không ngừng cố gắng học hỏi và tìm hiểu thêm về Tools.
+# Data Portfolio – BichTra10
+
+Cử nhân Kế toán – Tài chính (Trường Quốc tế – ĐHQGHN, bằng do ĐH East London cấp), hiện làm việc tại ngân hàng khoảng 1 năm.
+
+## Mục tiêu
+- Chuyển hướng sang Fintech hoặc Data Analyst, sau đó học thạc sĩ ngành Fintech / Data Analytics.
+- Kết hợp hiểu biết nghiệp vụ ngân hàng – tài chính với kỹ năng phân tích dữ liệu.
+
+## Đang học
+SQL Server, Power BI, Python (Pandas), Git/GitHub.
