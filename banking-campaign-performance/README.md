@@ -96,6 +96,17 @@ This was 1.99 percentage points above the 3.95% rate for the same economic conte
 
 Dataset version: bank-additional-full.csv, containing 41,188 records.
 
+## Project Files
+
+| File | Description |
+|---|---|
+| [SQL Analysis](analysis.sql) | SQL Server queries covering the five business questions. |
+| [Power BI Dashboard](Banking_Campaign_Performance.pbix) | Power BI file for interactive exploration. |
+| [Dashboard PDF](Banking_Campaign_Performance.pdf) | Three-page dashboard report for a quick review. |
+| [Detailed Insights and Recommendations](insights.md) | Methods, findings, recommendations, and limitations. |
+
+Use the PDF or screenshots for a quick review. Open the PBIX file in Power BI Desktop to explore the interactive report.
+
 ## Dashboard Preview
 
 ### Campaign Overview
