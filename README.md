@@ -1,10 +1,27 @@
-# Data Portfolio – BichTra10
+# Data Analytics Portfolio — BichTra10
 
-Cử nhân Kế toán – Tài chính (Trường Quốc tế – ĐHQGHN, bằng do ĐH East London cấp), hiện làm việc tại ngân hàng khoảng 1 năm.
+I am an Accounting and Finance graduate with banking experience, developing practical skills in data analysis and business intelligence.
 
-## Mục tiêu
-- Chuyển hướng sang Fintech hoặc Data Analyst, sau đó học thạc sĩ ngành Fintech / Data Analytics.
-- Kết hợp hiểu biết nghiệp vụ ngân hàng – tài chính với kỹ năng phân tích dữ liệu.
+This portfolio showcases projects that use data to explore business questions and communicate findings.
 
-## Đang học
-SQL Server, Power BI, Python (Pandas), Git/GitHub.
+## Technical Skills
+
+- SQL Server
+- Power BI and DAX
+- Excel
+
+## Areas of Interest
+
+Data analytics and business intelligence, with a focus on banking, finance, and business operations.
+
+## Featured Project
+
+### Banking Campaign Performance
+
+**Tools:** SQL Server, Power BI, DAX
+
+Analyzed 41,188 bank marketing records to explore customer segments, contact channels, contact intensity, previous campaign outcomes, and economic context.
+
+The project includes SQL queries, a three-page dashboard, a PDF report, and detailed insights and recommendations.
+
+[View project, dashboard, and analysis](./banking-campaign-performance/)
