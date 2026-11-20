@@ -95,3 +95,17 @@ This was 1.99 percentage points above the 3.95% rate for the same economic conte
 [UCI Machine Learning Repository — Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 Dataset version: bank-additional-full.csv, containing 41,188 records.
+
+## Dashboard Preview
+
+### Campaign Overview
+
+![Campaign Overview](01_campaign_overview.png)
+
+### Channel & Contact Strategy
+
+![Channel and Contact Strategy](02_channel_contact_strategy.png)
+
+### History & Economic Context
+
+![History and Economic Context](03_history_economic_context.png)
