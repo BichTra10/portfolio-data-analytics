@@ -25,3 +25,8 @@ Analyzed 41,188 bank marketing records to explore customer segments, contact cha
 The project includes SQL queries, a three-page dashboard, a PDF report, and detailed insights and recommendations.
 
 [View project, dashboard, and analysis](./banking-campaign-performance/)
+
+## Certificates and SQL Practice
+
+- [SQL Certificates](./certificates/) — Basic, Intermediate, and Advanced certificates.
+- [SQL Practice](./sql-practice/) — SQL exercises and practice queries.
