@@ -12,7 +12,7 @@ A collection of my SQL certificates.
 - **Achievement date:** September 27, 2024
 - **Focus:** Microsoft Excel skills, complementing my work in
   data preparation, checking, and reporting.
-- [View Certificate](./certificates/mos-excel-2019-associate.png)
+- [View Certificate](./mos-excel-2019-associate.png)
 
 ### Gemini Certified Educator
 
@@ -21,4 +21,4 @@ A collection of my SQL certificates.
 - **Valid through:** December 18, 2028
 - **Focus:** Foundational knowledge and practical competencies
   in using Google AI in education.
-- [View Certificate](./certificates/gemini-certified-educator.png)
+- [View Certificate](./gemini-certified-educator.png)
