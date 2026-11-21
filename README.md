@@ -272,12 +272,10 @@ transition-result data, and written insights and recommendations.
 [SQL Analysis](./consumer-loan-risk-analysis/analysis.sql) |
 [Key Insights](./consumer-loan-risk-analysis/insights.md)
 
-## 🏅 Certificates and SQL Practice
+## 🏅 Certificates
 
 - [SQL Certificates](./certificates/) — HackerRank SQL Basic, Intermediate, and Advanced certificates.
 
 - [Microsoft Office Specialist — Excel 2019 Associate](./certificates/mos-excel-2019-associate.png.png) — Microsoft Excel certification.
 
 - [Gemini Certified Educator](./certificates/gemini-certified-educator.png.png) — Google for Education certification in using Google AI in education.
-
-- [SQL Practice](./sql-practice/) — SQL exercises and practice queries.
