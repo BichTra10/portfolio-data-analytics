@@ -16,15 +16,129 @@ Data analytics and business intelligence, with a focus on banking, finance, and 
 
 ## Featured Project
 
-### Banking Campaign Performance
+### Banking Campaign Performance & Contact Strategy
 
-**Tools:** SQL Server, Power BI, DAX
+**Domain:** Banking, Marketing Analytics, and Customer Segmentation  
+**Tools:** SQL Server, DBeaver, Power BI, DAX  
+**Dataset:** UCI Bank Marketing — `bank-additional-full.csv`
 
-Analyzed 41,188 bank marketing records to explore customer segments, contact channels, contact intensity, previous campaign outcomes, and economic context.
+A descriptive analytics project examining **41,188 term-deposit marketing
+records** from a Portuguese banking institution. The project explores
+subscription outcomes, customer segments, contact channels, contact
+intensity, previous campaign history, and economic context.
 
-The project includes SQL queries, a three-page dashboard, a PDF report, and detailed insights and recommendations.
+The analysis combines SQL investigation with a **three-page interactive
+Power BI report** to identify practical hypotheses for improving
+targeting and contact strategies.
 
-[View project, dashboard, and analysis](./banking-campaign-performance/)
+#### Project Objectives
+
+- Establish clear performance indicators for term-deposit marketing.
+- Identify occupation and age groups with higher subscription rates
+  and lower average contact intensity.
+- Compare cellular and telephone outcomes after adjusting for
+  differences in month and weekday composition.
+- Explore contact-count patterns and the trade-offs associated with
+  hypothetical contact limits.
+- Examine previous campaign outcomes, contact recency, and economic
+  conditions to support more informed campaign reviews.
+
+#### My Work
+
+- Imported the source data into SQL Server and checked record counts,
+  outcome values, numeric conversions, and special-value handling.
+- Preserved unknown categories and treated `pdays = 999` separately
+  when analyzing contact recency.
+- Used SQL CTEs, conditional logic, aggregations, and window functions
+  to investigate five business questions.
+- Compared channels within common month-by-weekday groups using
+  consistent weights and explicit coverage checks.
+- Built contact-limit scenarios to illustrate potential changes in
+  contact effort under stated assumptions.
+- Created DAX measures for subscription rates, contact intensity,
+  comparison baselines, rate gaps, and scenario indicators.
+- Developed interactive Power BI visuals and reconciled the main
+  dashboard indicators with SQL results.
+- Documented findings, interpretation limits, and proposed follow-up
+  tests in a separate insights report.
+
+#### Dashboard Pages
+
+1. **Campaign Overview**  
+   Overall performance indicators, occupation-by-age segment results,
+   and a comparison of contact intensity against subscription rate.
+
+2. **Channel & Contact Strategy**  
+   Crude and standardized channel comparisons, subscription rates by
+   recorded contact count, and interactive contact-limit scenarios.
+
+3. **History & Economic Context**  
+   Previous campaign outcomes, contact-recency groups, and channel
+   comparisons against reference rates within the same economic context.
+
+#### Selected Findings
+
+- **Overall performance:** The dataset contains **4,640 subscribed
+  records**, representing an overall subscription rate of **11.27%**.
+  Average contact intensity was **2.57 contacts per record**.
+
+- **Segment differences:** Retired people aged **65+** had a subscription
+  rate of **47.14% across 560 records**, with **1.97 average contacts**.
+  Students under 25 recorded **37.83% across 378 records**, with
+  **1.89 average contacts**.
+
+- **Channel comparison:** Across **33 comparable month-by-weekday
+  groups**, standardized subscription rates were **15.95% for cellular**
+  and **8.00% for telephone**. The adjusted gap was **7.95 percentage
+  points**, indicating that the examined time composition explained
+  little of the observed channel difference.
+
+- **Contact-limit scenario:** A hypothetical three-contact limit
+  produced an avoided-contact proxy of **28,044 contacts**, equivalent
+  to **26.52% of recorded contacts**. There were **555 subscribed
+  records above the limit**; the dataset does not identify when
+  those subscriptions occurred.
+
+- **Previous campaign history:** Records with a previous successful
+  outcome had a current subscription rate of **65.11% across
+  1,373 records**, approximately **5.78 times the overall rate**.
+
+#### Business Recommendations
+
+- Test segment prioritization using both subscription rate and
+  contact intensity, alongside the number of eligible records.
+- Evaluate channel choices within comparable customer groups and
+  time periods.
+- Compare alternative contact limits through a prospective trial,
+  measuring actual subscriptions and contact effort.
+- Investigate previous-success groups as candidates for recontact.
+- Review campaign results against their economic-context reference
+  before drawing conclusions from the overall average.
+
+#### Analytical Scope
+
+The unit of analysis is a **marketing record**. Unique customers
+cannot be confirmed because the dataset does not provide a customer
+identifier.
+
+Contact counts are cumulative, and individual call outcomes and
+subscription timing are unavailable. Channel and segment differences
+are observational associations.
+
+Contact-limit results are scenario estimates. Recommendations are
+proposals for further testing; the project does not claim realized
+cost savings or a measured increase in subscriptions.
+
+#### Skills Demonstrated
+
+Data validation, SQL analysis, customer segmentation, window functions,
+weighted comparisons, scenario analysis, DAX filter context,
+interactive dashboard design, and business communication.
+
+**Project materials:** SQL analysis, Power BI report, three-page PDF
+dashboard, dashboard screenshots, and detailed insights and recommendations.
+
+[View Project and Supporting Files](./banking-campaign-performance/)
 
 ### Consumer Loan Delinquency & Roll-rate Analysis
 
