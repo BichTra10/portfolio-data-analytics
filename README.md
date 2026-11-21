@@ -1,18 +1,68 @@
-# Data Analytics Portfolio — BichTra10
+# Nguyễn Bích Trà | Data Analytics Portfolio
 
-I am an Accounting and Finance graduate with banking experience, developing practical skills in data analysis and business intelligence.
+**Accounting & Finance Graduate · Banking Experience · Aspiring Data Analyst**
 
-This portfolio showcases projects that use data to explore business questions and communicate findings.
+Welcome to my portfolio. I am an **Accounting and Finance graduate
+from the International School, Vietnam National University, Hanoi**,
+pursuing opportunities in **Data Analytics and Business Intelligence**.
+
+My professional background includes an **internship at MB Bank
+(Military Commercial Joint Stock Bank)** and **one year of experience
+as a Personal Banking Officer at TPBank (Tien Phong Commercial
+Joint Stock Bank)**.
+
+Working in banking has given me practical exposure to customer needs,
+financial products, sales activities, and performance targets.
+I am building on this experience with **SQL, Power BI, DAX, and Excel**
+to investigate business questions, develop clear dashboards,
+and communicate findings with appropriate context.
+
+## What I Bring to Data Analytics
+
+- **Accounting and finance foundation:** An academic background that
+  helps me interpret financial information, understand business
+  performance, and pay attention to consistency in reported figures.
+
+- **Practical banking knowledge:** Experience that helps me connect
+  analytical questions with retail banking activities, customer
+  acquisition, product needs, and commercial priorities.
+
+- **Customer perspective:** Direct customer-facing experience that
+  encourages me to consider the needs and circumstances behind
+  the numbers when interpreting customer segments.
+
+- **Clear communication:** Experience explaining financial products
+  and working toward business targets, which I apply when presenting
+  analytical findings and recommendations.
+
+- **Attention to data quality:** A focus on checking figures,
+  defining meaningful denominators, and distinguishing observed
+  patterns from assumptions before drawing conclusions.
 
 ## Technical Skills
 
-- SQL Server
-- Power BI and DAX
-- Excel
+| Area | Skills |
+|---|---|
+| SQL Server | Data validation, joins, CTEs, aggregations, and window functions |
+| Power BI | Power Query, data modeling, interactive dashboards, and report formatting |
+| DAX | KPI measures, filter context, comparison baselines, and rate calculations |
+| Excel | Data preparation, checking, and summary analysis |
+| Analytical communication | Business questions, KPI definitions, written insights, and recommendations |
 
-## Areas of Interest
+## Portfolio Focus
 
-Data analytics and business intelligence, with a focus on banking, finance, and business operations.
+My projects follow a practical workflow:
+**define the business question → validate the data → analyze with SQL
+→ visualize in Power BI → explain findings and limitations**.
+
+## Career Interests
+
+I am seeking **Data Analyst Intern and entry-level analytics
+opportunities**, particularly in **banking, financial services,
+and business operations**.
+
+I aim to contribute practical business understanding, careful analysis,
+and clear communication while continuing to develop my technical skills.
 
 ## Featured Project
 
