@@ -1,32 +1,6 @@
-<h1 align="center">Nguyễn Bích Trà</h1>
+# Nguyễn Bích Trà | Data Analytics Portfolio
 
-<h3 align="center">DATA ANALYTICS PORTFOLIO</h3>
-
-<p align="center">
-  <strong>Accounting & Finance Graduate · Banking Experience · Aspiring Data Analyst</strong>
-</p>
-
-<p align="center">
-  Exploring banking and business questions through data.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-B91C1C?style=for-the-badge" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge" alt="DAX" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
-</p>
-
-<p align="center">
-  <a href="./banking-campaign-performance/">
-    <img src="https://img.shields.io/badge/Banking_Campaign-0F766E?style=for-the-badge" alt="View Banking Campaign Project" />
-  </a>
-  <a href="./consumer-loan-risk-analysis/">
-    <img src="https://img.shields.io/badge/Consumer_Loan_Risk-7F1D1D?style=for-the-badge" alt="View Consumer Loan Risk Project" />
-  </a>
-</p>
-
-<hr>
+**Accounting & Finance Graduate · Banking Experience · Aspiring Data Analyst**
 
 ## 👋 About Me
 Welcome to my portfolio. I am an **Accounting and Finance graduate
