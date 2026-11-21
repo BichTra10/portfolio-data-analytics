@@ -1,7 +1,34 @@
-# Nguyễn Bích Trà | Data Analytics Portfolio
+<h1 align="center">Nguyễn Bích Trà</h1>
 
-**Accounting & Finance Graduate · Banking Experience · Aspiring Data Analyst**
+<h3 align="center">DATA ANALYTICS PORTFOLIO</h3>
 
+<p align="center">
+  <strong>Accounting & Finance Graduate · Banking Experience · Aspiring Data Analyst</strong>
+</p>
+
+<p align="center">
+  Exploring banking and business questions through data.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-B91C1C?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge" alt="DAX" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+</p>
+
+<p align="center">
+  <a href="./banking-campaign-performance/">
+    <img src="https://img.shields.io/badge/Banking_Campaign-0F766E?style=for-the-badge" alt="View Banking Campaign Project" />
+  </a>
+  <a href="./consumer-loan-risk-analysis/">
+    <img src="https://img.shields.io/badge/Consumer_Loan_Risk-7F1D1D?style=for-the-badge" alt="View Consumer Loan Risk Project" />
+  </a>
+</p>
+
+<hr>
+
+## 👋 About Me
 Welcome to my portfolio. I am an **Accounting and Finance graduate
 from the International School, Vietnam National University, Hanoi**,
 pursuing opportunities in **Data Analytics and Business Intelligence**.
@@ -17,7 +44,7 @@ I am building on this experience with **SQL, Power BI, DAX, and Excel**
 to investigate business questions, develop clear dashboards,
 and communicate findings with appropriate context.
 
-## What I Bring to Data Analytics
+## 💼 What I Bring to Data Analytics
 
 - **Accounting and finance foundation:** An academic background that
   helps me interpret financial information, understand business
@@ -39,7 +66,7 @@ and communicate findings with appropriate context.
   defining meaningful denominators, and distinguishing observed
   patterns from assumptions before drawing conclusions.
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Area | Skills |
 |---|---|
@@ -49,13 +76,13 @@ and communicate findings with appropriate context.
 | Excel | Data preparation, checking, and summary analysis |
 | Analytical communication | Business questions, KPI definitions, written insights, and recommendations |
 
-## Portfolio Focus
+## 📊 Portfolio Focus
 
 My projects follow a practical workflow:
 **define the business question → validate the data → analyze with SQL
 → visualize in Power BI → explain findings and limitations**.
 
-## Career Interests
+## 🎯 Career Interests
 
 I am seeking **Data Analyst Intern and entry-level analytics
 opportunities**, particularly in **banking, financial services,
@@ -64,8 +91,7 @@ and business operations**.
 I aim to contribute practical business understanding, careful analysis,
 and clear communication while continuing to develop my technical skills.
 
-## Featured Project
-
+## 📂 Featured Projects
 ### Banking Campaign Performance & Contact Strategy
 
 **Domain:** Banking, Marketing Analytics, and Customer Segmentation  
@@ -272,7 +298,7 @@ transition-result data, and written insights and recommendations.
 [SQL Analysis](./consumer-loan-risk-analysis/analysis.sql) |
 [Key Insights](./consumer-loan-risk-analysis/insights.md)
 
-## Certificates and SQL Practice
+## 🏅 Certificates and SQL Practice
 
 - [SQL Certificates](./certificates/) — Basic, Intermediate, and Advanced certificates.
 - [SQL Practice](./sql-practice/) — SQL exercises and practice queries.
