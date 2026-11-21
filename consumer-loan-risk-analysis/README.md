@@ -89,15 +89,24 @@ The tables remain separate because they have different grains and populations. T
 | [Consumer_Loan_Risk_Analysis.pdf](Consumer_Loan_Risk_Analysis.pdf) | Exported three-page report. |
 | [q3_roll_rate_results.csv](q3_roll_rate_results.csv) | The 39-row SQL output imported as RollRates. |
 
-## Viewing and refresh notes
+## Dashboard Preview
 
-The PDF can be reviewed independently. The PBIX contains imported data; refreshing it requires the SQL Server database **consumer_loan_risk** and the local Q3 result CSV. Update the connection and file path for the environment used to refresh the report.
+### 1. Portfolio Overview
 
-SQL concepts used include TRY_CONVERT, CASE, joins, aggregations, ROW_NUMBER, and LEAD. DAX concepts include measures, CALCULATE, KEEPFILTERS, REMOVEFILTERS, and DIVIDE.
+![Portfolio Overview dashboard](./01_portfolio_overview.png)
+
+### 2. Roll Rates & Cure
+
+![Roll Rates & Cure dashboard](./02_roll_rates_and_cure.png)
+
+### 3. Applicant Profile
+
+![Applicant Profile dashboard](./03_applicant_profile.png)
+
 
 ## Interpretation limits
 
-- SK_ID_PREV identifies a previous contract. Contract counts are not unique customer counts, and historical pair counts can include the same contract multiple times.
-- Latest observed is selected separately for each contract; it is not a common calendar-date snapshot. MONTHS_BALANCE is relative to the current application.
-- Overdue is a DPD measure, not a default or loss rate. Completed is reported separately from cure and is not a measure of cash recovered.
-- Current application income and occupation may postdate earlier loan observations. The profile comparisons are descriptive, and income bands 
+- **Counting unit.** Portfolio counts are based on contracts (`SK_ID_PREV`). A single contract can contribute several monthly transition pairs.
+- **Observation timing.** The latest available observation is selected for each contract, so observation months may differ across contracts. `MONTHS_BALANCE` is relative to the current application.
+- **Overdue, cure, and completion.** The overdue rate measures the share of active contracts with at least one day past due (DPD). A cure is a return to active status with zero DPD. The completion rate tracks transitions to `Completed`.
+- **Applicant profiles.** Income and occupation come from the current application and may reflect a later point in time than earlier loan observations. The comparisons describe overdue rates among contracts with matched profiles. Income bands use the units in the source dataset.
