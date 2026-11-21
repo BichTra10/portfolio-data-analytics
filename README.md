@@ -274,5 +274,10 @@ transition-result data, and written insights and recommendations.
 
 ## 🏅 Certificates and SQL Practice
 
-- [SQL Certificates](./certificates/) — Basic, Intermediate, and Advanced certificates.
+- [SQL Certificates](./certificates/) — HackerRank SQL Basic, Intermediate, and Advanced certificates.
+
+- [Microsoft Office Specialist — Excel 2019 Associate](./certificates/mos-excel-2019-associate.png.png) — Microsoft Excel certification.
+
+- [Gemini Certified Educator](./certificates/gemini-certified-educator.png.png) — Google for Education certification in using Google AI in education.
+
 - [SQL Practice](./sql-practice/) — SQL exercises and practice queries.
