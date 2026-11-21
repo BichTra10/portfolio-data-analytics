@@ -26,6 +26,15 @@ The project includes SQL queries, a three-page dashboard, a PDF report, and deta
 
 [View project, dashboard, and analysis](./banking-campaign-performance/)
 
+### Consumer Loan Delinquency & Roll-rate Analysis
+
+**Tools:** SQL Server, Power BI, DAX
+
+Analyzed 10M+ monthly loan observations to examine overdue contracts,
+DPD transitions, cure rates, and applicant-profile coverage.
+
+[View project](./consumer-loan-risk-analysis/)
+
 ## Certificates and SQL Practice
 
 - [SQL Certificates](./certificates/) — Basic, Intermediate, and Advanced certificates.
