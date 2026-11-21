@@ -12,7 +12,7 @@ A collection of my SQL certificates.
 - **Achievement date:** September 27, 2024
 - **Focus:** Microsoft Excel skills, complementing my work in
   data preparation, checking, and reporting.
-- [View Certificate](./mos-excel-2019-associate.png)
+- [View Certificate]([./mos-excel-2019-associate.png](https://github.com/BichTra10/portfolio-data-analytics/blob/main/certificates/mos-excel-2019-associate.png.png))
 
 ### Gemini Certified Educator
 
